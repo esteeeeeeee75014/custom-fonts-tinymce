@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'MaisonNeueDemi';
+    src: url('./fonts/MaisonNeueDemi.woff2') format('woff2'),
+         url('./fonts/MaisonNeueDemi.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'MaisonNeueDemi', sans-serif;
+}
