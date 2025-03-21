@@ -1,7 +1,6 @@
 @font-face {
     font-family: 'MaisonNeueDemi';
-    src: url('./fonts/MaisonNeueDemi.woff2') format('woff2'),
-         url('./fonts/MaisonNeueDemi.woff') format('woff');
+         url('https://esteeeeeeee75014.github.io/custom-fonts-tinymce/fonts/MaisonNeueDemi.woff/fonts/MaisonNeueDemi.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
